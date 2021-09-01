@@ -32,16 +32,29 @@
 ## 실행 화면
 1. 시작화면    
 ![1](https://user-images.githubusercontent.com/82256410/131675574-407ede00-ed3a-4188-a9a7-4a19fa5b865a.png)
-3. 회원가입
-4. 로그인
-5. 당월, 익월 달력 출력
-6. 대여/반납 날짜 및 시간 입력
-7. 대여 가능한 차량 목록 출력 및 차량 선택
-8. 보험 옵션 선택
-9. 총 결제 금액 계산 및 예약 내용 확인
-10. 쿠폰 적용 및 결제
-11. 결제 방식 선택 및 결제
-12. 현제 결제 시 거스름 돈 출력
-13. 예약확인서 출력
-14. 재로그인 시 예약 내역서 발급
-15. 관리자 모드
+2. 회원가입  
+![2](https://user-images.githubusercontent.com/82256410/131675979-b04ebc30-4698-4f61-a6e6-2a7d7edac45f.png)
+3. 로그인  
+![3](https://user-images.githubusercontent.com/82256410/131675994-c01e39a4-6732-4ec6-b4a6-19842d153bf5.png)
+4. 당월, 익월 달력 출력  
+![4](https://user-images.githubusercontent.com/82256410/131676004-c7af0718-4b5d-466a-bcac-327577c490ae.png)
+5. 대여/반납 날짜 및 시간 입력  
+![5](https://user-images.githubusercontent.com/82256410/131676015-dbe8d575-2480-40ca-b8c5-ed117234faf7.png)
+6. 대여 가능한 차량 목록 출력 및 차량 선택  
+![6](https://user-images.githubusercontent.com/82256410/131676023-38bd1f62-1b3d-4bc0-9a31-a18e5106968f.png)
+7. 보험 옵션 선택  
+![7](https://user-images.githubusercontent.com/82256410/131676035-746102f9-bd13-4f83-a640-dcf03d5703d3.png)
+8. 총 결제 금액 계산 및 예약 내용 확인  
+![8](https://user-images.githubusercontent.com/82256410/131676044-39ab0996-01e8-4f09-a999-5220e4f5c6dc.png)
+9. 쿠폰 적용 및 결제  
+![9](https://user-images.githubusercontent.com/82256410/131676052-b8145d68-5afd-4971-85a3-ef25096f9a10.png)
+10. 결제 방식 선택 및 결제  
+![10](https://user-images.githubusercontent.com/82256410/131676061-f66d27a9-09ac-4bdd-bdee-26c43582853d.png)
+11. 현금 결제 시 거스름 돈 출력  
+![11](https://user-images.githubusercontent.com/82256410/131676068-01795bf6-b8af-40db-8a2e-b19b106e46a2.png)
+12. 예약확인서 출력  
+![12](https://user-images.githubusercontent.com/82256410/131676075-7d781587-7f66-44ba-8eb2-fd768f701955.png)
+13. 재로그인 시 예약 내역서 발급  
+![13](https://user-images.githubusercontent.com/82256410/131676079-cde6cfea-4749-4e38-b474-83c2d8b293ad.png)
+14. 관리자 모드  
+![14](https://user-images.githubusercontent.com/82256410/131676087-a03a5a95-d3d9-4973-a87b-e2a8f9e9cfb2.png)
