@@ -28,6 +28,31 @@
 5. 객체화와 Vector 자료구조를 활용하여 예약된 차량을 다음 실행 시 가능한 차량 목록에서 제거.
 6. Date 클래스와 HashMap 자료구조를 활용하여 로그인 시점에 조건에 맞는 쿠폰을 자동 발급한다. Array 정렬 기능을 활용하여 가장 할인율이 높은 쿠폰을 자동으로 적용시켜 총 금액을 계산한다.
 7. Vector 자료구조를 활용하여 예약정보를 저장하고 사용자 요청 시 예약 확인서 출력.  
+
+## 작성한 소스
+<실행 관련 파일> 
+- Main 하림
+- Start 서현, 하림
+- Join 서현, 하림, 새롬, 혜연
+- Login 서현, 하림, 새롬
+- DateTime 서현, 하림, 나현, 새롬
+- Car 나현, 혜연, 서현, 하림
+- Insurance 혜연, 나현, 하림
+- CheckSelection 새롬, 하림
+- Payment 하림, 서현
+- Inquiry  하림, 새롬
+
+---------------------------------------------------------------------- 
+
+<데이터 관련 파일> 
+
+- User 서현, 하림
+- UserData 하림, 서현
+- Card 하림, 새롬, 나현
+- DriversLicense  서현
+- Reservation 서현, 하림
+- ReservationData 서현, 하림
+
 ## 실행 화면
 1. 시작화면    
 ![1](https://user-images.githubusercontent.com/82256410/131675574-407ede00-ed3a-4188-a9a7-4a19fa5b865a.png)
